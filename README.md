@@ -1,7 +1,5 @@
 # Restaurant Management System
 
-![Restaurant Management System Logo](https://github.com/k33ptoo/School-Management-System-Inspiration/blob/master/img1.png)
-
 ## Description
 
 The Restaurant Management System is a software solution designed to streamline the operations and processes involved in managing a restaurant. The main actors include the client, employee, and delivery person, while secondary actors involve the banking system, database, and technician. By effectively utilizing these actors, the system aims to provide efficient order placement, order management, and delivery services, ensuring a seamless experience for both customers and restaurant staff.
